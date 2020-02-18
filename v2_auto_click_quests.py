@@ -35,7 +35,7 @@ pyautogui.click()
 #total guild quest available for L60 castle
 count_of_guildScroll = 8
 
-#move to first quest position and start clicking 
+#move to first quest position and start clicking
 pyautogui.moveTo(1550,430)
 for click in range(count_of_guildScroll):
     pyautogui.click()
