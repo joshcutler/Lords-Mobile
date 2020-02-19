@@ -35,7 +35,7 @@ time.sleep(1)
 pyautogui.click(950, 640)
 time.sleep(1)
 
-helps = 40
+helps = 60
 for click in range(helps):
     #click on food farm
     pyautogui.click(950,540)
